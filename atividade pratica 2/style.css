@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Open+Sans:ital@1&display=swap');
+
+* {
+    font-family: "caveat", "open sans", "courier new";
+}
+
+.fotoPerfil {
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+
+}
+
+.fotoPerfil1 {
+    background-image: linear-gradient(rgb(79, 79, 229), rgb(110, 92, 174));
+}
+
+.degrade1 {
+    background-image: linear-gradient(rgb(79, 79, 229), rgb(110, 92, 174));
+    font-size: 50px;
+    color: white;
+    text-align: left;
+    border-collapse: collapse;
+    margin-bottom: -200px;
+}
+
+.degrade2 {
+    background-image: linear-gradient(rgb(79, 79, 229), rgb(110, 92, 174));
+    font-size: 20px;
+    color: white;
+    text-align: left;
+    border-collapse: collapse;
+    margin-bottom: -200px;
+
+}
+
+.links {
+    border-radius: 10px;
+        width: 25%;
+    height: 15px;
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    text-align: center;
+
+
+
+
+}
+
+.borderLink {
+    background-color: rgb(227, 236, 190);
+    padding-left: 10%;
+    padding-right: 10%;
+    width: 100%;
+    display: inline-block;
+}
+
+
+.heroSection,
+.heroSection2 {
+
+    width: 50%;
+    height: 60px;
+    padding: 90px;
+
+}
+
+
+
+.imgHero {
+    width: 750px;
+    height: 450px;
+    margin: -90px -90px -92px -90px;
+    display: inline-block;
+    line-height: 0;
+}
+
+
+
+img {
+    width: 150px;
+    height: 150px;
+
+
+}
+
+p {
+    text-align: center;
+
+}
+
+.footer {
+    width: 20px;
+    height: 10px;
+    align-items: center;
+
+}
